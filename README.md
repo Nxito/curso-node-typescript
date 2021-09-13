@@ -101,3 +101,4 @@ Para conetarse y probar se usó "tablePlus"
 Se realiza la conexion a la tabla Usuarios con la estructura de columnas siguiente: id,nombre,email,estado,createdAt y updatedAt
 
 
+
